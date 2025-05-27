@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   final title = 'Flutterサンプル';
   final message = 'サンプル・メッセージ。';
 
-final
+> final
   変更しないことを表す
 
 child: Icon(Icon.airport_shuttle),
